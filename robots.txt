@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ragdollhit2.wwkejishe.top/sitemap.xml
